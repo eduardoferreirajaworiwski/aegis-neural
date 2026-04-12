@@ -1,0 +1,20 @@
+# Models
+*.pt
+*.pth
+*.pkl
+
+# Datasets
+*.csv
+*.json
+*.log
+data/
+
+# Python
+__pycache__/
+.venv/
+env/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
